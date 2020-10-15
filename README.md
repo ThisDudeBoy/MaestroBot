@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DeltaBot" src="https://maestro-bot.com/assets/img/logomamadou.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="https://maestro-bot.com/assets/img/logomamadou.png">  
 
 # MaestroBot
 
