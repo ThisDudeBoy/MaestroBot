@@ -2,7 +2,7 @@
 
 # MaestroBot
 
-[![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.com/invite/Gc7MqcZ)
+[![](https://img.shields.io/discord/738121691775107072.svg?logo=discord&colorB=7289DA)](https://discord.com/invite/Gc7MqcZ)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/maestrobot)
 
